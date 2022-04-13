@@ -3,5 +3,4 @@
 This is a second project following The Odin Project course.
 
 This exercise requires:
-HTML
-CSS
+HTML and CSS
