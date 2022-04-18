@@ -41,6 +41,10 @@ a {
     font-size: 18px;
 }
 
+a:hover{
+    color: #f547c9;
+}
+
 .top-container {
     background-color: #1F2937;
     padding-bottom:100px;
