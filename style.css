@@ -80,6 +80,7 @@ h1 {
 }
 
 button {
+    cursor: pointer;
     font-size: 18px;
     font-weight: 800;
     background-color: #3882F6;
@@ -184,6 +185,8 @@ button {
     border: 1px solid white;
 }
 
+
+
 .footer {
     background-color: #1f1f1f;
     display: flex;
@@ -195,4 +198,11 @@ button {
     max-height: 50px;
 }
 
+button:hover {
+    background-color: #1f51a1;
+}
+
+button:active {
+    transform: translateY(4px);
+}
 
